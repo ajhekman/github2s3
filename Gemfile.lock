@@ -6,6 +6,7 @@ GEM
       mime-types
       xml-simple
     builder (3.2.0)
+    colorize (0.5.8)
     mime-types (1.23)
     xml-simple (1.1.2)
 
@@ -14,3 +15,4 @@ PLATFORMS
 
 DEPENDENCIES
   aws-s3
+  colorize
